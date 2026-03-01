@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HIMANSHU</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshugrewal1" alt="himanshugrewal1" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshugrewal1" alt="himanshugrewal1" /></a> </p> -->
 
 - 🔭 I’m currently working on **Voxel Engine**
 
@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/freah_leaf_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="freah_leaf_10" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sukuna106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sukuna106" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himanshu_grewal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshu_grewal" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/125005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="125005" height="30" width="40" /></a>
+<!-- <a href="https://www.topcoder.com/members/125005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="125005" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
